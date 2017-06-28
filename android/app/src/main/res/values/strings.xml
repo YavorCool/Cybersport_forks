@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ставки на киберспорт</string>
+    <string name="action_settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="DOTA_TAG">dota-2</string>
+    <string name="CSGO_TAG">csgo</string>
+    <string name="title_activity_matches_list">Список игр</string>
+    <string name="title_activity_detail_">Подробности</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
